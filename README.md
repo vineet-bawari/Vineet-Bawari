@@ -1,10 +1,19 @@
 <h1>Hi 👋, I'm Vineet Bawari</h1>
 <h3>A passionate front-end web developer from New Delhi, India.</h3>
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=vineet-bawari" alt="Vineet Bawari" />
+    </a> 
+</p>
+
 <img align="right" src="https://jps-werbung.de/images/loader.gif" alt="Coding" width="325">
 
 - 🔭 I'm Vineet Bawari, currently learning web development.
 
 - 📫 Feel free to connect me: **vineetbawari@gmail.com**
+
+- 📄 Know about my experiences: **www.linkedin.com/in/vineet-bawari-997904235**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,7 +59,8 @@
 </p>
 
 <h1>📈 My Stats</h1>
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vineet-bawari&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-bawari&theme=tokyonight" />
+<p align="left">
+<!--     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vineet-bawari&show_icons=true&theme=tokyonight" alt="Vineet Bawari" /> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-bawari&theme=tokyonight" alt="Vineet Bawari" />
+<!--     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet-bawari&show_icons=true&locale=en&layout=compact" alt="Vineet Bawari" /> -->
 </p>
