@@ -1,9 +1,10 @@
 <h1>Hi 👋, I'm Vineet Bawari</h1>
 <h3>A passionate front-end web developer from New Delhi, India.</h3>
 
-<p align="left"> 
+<h1>🏆 GitHub Profile Trophy</h1>
+<p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=vineet-bawari" alt="Vineet Bawari" />
+        <img src="https://github-profile-trophy.vercel.app/?username=vineet-bawari&theme=onedark" alt="Vineet Bawari" />
     </a> 
 </p>
 
