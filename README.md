@@ -14,7 +14,7 @@
 
 - 📫 Feel free to connect me: **vineetbawari@gmail.com**
 
-- 📄 Know about my experiences: **www.linkedin.com/in/vineet-bawari-997904235**
+- 📄 Know about my experiences: **www.linkedin.com/in/vineet-bawari**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
